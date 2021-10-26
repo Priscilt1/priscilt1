@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://github-readme-stats.vercel.app/api?username=Priscilt1&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=Priscilt1&show_icons=true&theme=radical)
 
 <!--
 **Priscilt1/priscilt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
